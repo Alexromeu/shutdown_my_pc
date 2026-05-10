@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1768888068 source:d:\c++\shutdown\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+
